@@ -8,7 +8,7 @@ public class TestUtilities {
     @Test
     public void test1(){
         boolean actual = Utilities.testCode();
-        assertTrue(actual);     
+        assertTrue(actual);       
     }
     
 }
