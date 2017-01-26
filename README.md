@@ -21,4 +21,4 @@ and implement one unit test for each
 5. Commit and Push to Homework 
 6. Open this file in a text editor, or better on github, and replace the <> with your github name. The icon will change to green when all tests pass on Travis
 
-[![Build Status](https://travis-ci.org/MCO364-1/hw1-yonirobinson1.svg?branch=master)](https://travis-ci.org/MCO364-1/hw1-Edonfreiner)
+[![Build Status](https://travis-ci.org/MCO364-1/hw1-Edonfreiner.svg?branch=master)](https://travis-ci.org/MCO364-1/hw1-Edonfreiner)
